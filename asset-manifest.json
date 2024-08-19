@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RandyFullStackBank/static/css/main.bf82e076.css",
+    "main.js": "/RandyFullStackBank/static/js/main.865a733f.js",
+    "static/media/badbankbackground.jpg": "/RandyFullStackBank/static/media/badbankbackground.32dc149a70f19707c96f.jpg",
+    "index.html": "/RandyFullStackBank/index.html",
+    "main.bf82e076.css.map": "/RandyFullStackBank/static/css/main.bf82e076.css.map",
+    "main.865a733f.js.map": "/RandyFullStackBank/static/js/main.865a733f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf82e076.css",
+    "static/js/main.865a733f.js"
+  ]
+}
